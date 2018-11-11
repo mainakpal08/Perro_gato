@@ -1,22 +1,22 @@
-# :smiley_dog: Perro_gato :smiley_cat:
+# :dog: Perro_gato :cat:
 [![Python](https://img.shields.io/badge/Language-Python-red.svg)](https://www.python.org/)
-[![nn](https://img.shields.io/badge/Powered_by-Python-blue.svg)](https://www.python.org/)
+[![nn](https://img.shields.io/badge/Powered_by-Neural_Nets-blue.svg)](https://www.python.org/)
 [![author](https://img.shields.io/badge/Author-Mainak-orange.svg)](https://mpalrocks.github.io/)
 
 
-An image classifier that uses deep learning to detect if it is a "cat" image or a "dog" image<br/>
+An image classifier that uses deep learning to detect if it is a "cat" image or a "dog" image.<br/>
 
 ## Example:
 
 ### Cat image :
-<img src="test1.jpg?raw=true" width="400">
+<img src="test1.jpg?raw=true" width="300">
 - Result :
-<img src="ss_cat.jpg?raw=true" width="400">
+<img src="ss_cat.png?raw=true">
 <br/>
 ### Dog image :
-<img src="test2.jpg?raw=true" width="400">
+<img src="test2.jpg?raw=true" width="300">
 - Result :
-<img src="ss_dog.jpg?raw=true" width="400">
+<img src="ss_dog.png?raw=true">
 <br/>
 
 ## Dependancies
@@ -88,8 +88,8 @@ Size: 2
 - Activation
 Function: Sigmoid
 
-### Optimizer: Adadelta
-### Loss: Binary Crossentropy
+#### Optimizer: Adadelta
+#### Loss: Binary Crossentropy
 
 ## Author
 
