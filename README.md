@@ -10,14 +10,14 @@ An image classifier that uses deep learning to detect if it is a "cat" image or 
 
 ### Cat image :
 <img src="test1.jpg?raw=true" width="300">
-- Result :
+Result :
 <img src="ss_cat.png?raw=true">
-<br/>
+
 ### Dog image :
 <img src="test2.jpg?raw=true" width="300">
-- Result :
+Result :
 <img src="ss_dog.png?raw=true">
-<br/>
+
 
 ## Dependancies
 
